@@ -1,0 +1,15 @@
+{
+  "type": "service_account",
+  "project_id": "xxx",
+  "private_key_id": "xxx",
+  "private_key": "-----BEGIN PRIVATE KEY-----\xxx\n-----END PRIVATE KEY-----\n",
+  "client_email": "xxx",
+  "client_id": "xxx",
+  "auth_uri": "xxx",
+  "token_uri": "xxx",
+  "auth_provider_x509_cert_url": "xxx",
+  "client_x509_cert_url": "xxx"
+}
+
+
+# Не забудьте скопировать этот файл под именем private_key.json
